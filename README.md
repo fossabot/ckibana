@@ -1,5 +1,6 @@
 ![CKibana Logo (Light)](img/logo-black.png#gh-light-mode-only)
 ![CKibana Logo (Dark)](img/logo-white.png#gh-dark-mode-only)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTongchengOpenSource%2Fckibana.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTongchengOpenSource%2Fckibana?ref=badge_shield)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Release](https://img.shields.io/github/release/TongchengOpenSource/ckibana.svg?color=brightgreen&label=Release)](https://github.com/TongchengOpenSource/ckibana/releases)
@@ -158,3 +159,6 @@ The group supports both Enterprise WeChat and personal WeChat accounts
 
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) Copyright (C) Apache Software Foundation
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTongchengOpenSource%2Fckibana.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTongchengOpenSource%2Fckibana?ref=badge_large)
